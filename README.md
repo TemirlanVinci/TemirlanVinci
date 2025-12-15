@@ -6,15 +6,14 @@
 
   <h2>
     SYSTEM: VINCI<br>
-    <span style="font-size: 18px; color: #8b949e;">Active / Exploring Rust & Blockchain</span>
+    <span style="font-size: 18px; color: #8b949e;">Rust Apprentice / Arch Linux User</span>
   </h2>
 
   <br />
 
   <p>
-    <i>"Constructing reliable decentralized systems through strict discipline."</i>
+    <i>"Exploring the depths of systems programming. Currently focused on mastering memory safety and concurrency."</i>
   </p>
-
   <br />
 
   <img src="https://img.shields.io/badge/RUST-000000?style=for-the-badge&logo=rust&logoColor=white" height="30" />
