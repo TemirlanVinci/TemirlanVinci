@@ -11,9 +11,6 @@
 
   <br />
 
-  <p>
-    <i>"Exploring the depths of systems programming. Currently focused on mastering memory safety and concurrency."</i>
-  </p>
   <br />
 
   <img src="https://img.shields.io/badge/RUST-000000?style=for-the-badge&logo=rust&logoColor=white" height="30" />
