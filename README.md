@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="header.jpg" width="100%" alt="The Ascent" />
+  <img src="header.png" width="100%" alt="The Ascent" />
 
   <br /><br />
 
