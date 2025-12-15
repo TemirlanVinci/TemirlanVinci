@@ -4,13 +4,11 @@
 
 <br />
 
-<h1 align="center">Hi, I'm Vinci <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center">Hi, I'm Temirlan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <br />
 
 <p align="center">
-  <b>System Developer based in Bishkek.</b><br>
-  I am an INTJ focused on strict logic and efficiency.
   <br><br>
   Currently, I am deepening my knowledge in <b>Rust</b> 🦀. <br>
   My professional trajectory is aimed at <b>Blockchain Architecture</b>, <b>Systems Programming</b>, and building secure <b>High-Load Systems</b>.
@@ -19,10 +17,8 @@
 <br />
 
 <div align="center">
-  <code>
     Running <b>Arch Linux</b> on <b>Hyprland</b> WM.<br>
     I prefer minimal, keyboard-centric workflows and tiling window managers.
-  </code>
 </div>
 
 <br /><br />
