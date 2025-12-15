@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="header.png width="100%" alt="The Ascent" />
+  <img src="header.jpg?v=3" width="100%" alt="The Ascent" />
 </div>
 
 <br />
