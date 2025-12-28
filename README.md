@@ -32,9 +32,3 @@
 
 <br /><br />
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=TemirlanVinci&theme=transparent&hide_border=true&show_icons=true&count_private=true&title_color=ffffff&text_color=cecece&icon_color=ffffff&bg_color=0d1117" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TemirlanVinci&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=cecece&bg_color=0d1117" />
-  </a>
-</div>
