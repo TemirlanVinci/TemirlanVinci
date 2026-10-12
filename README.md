@@ -9,25 +9,40 @@
 <br />
 
 <p align="center">
-  Focused on <b>Backend Development</b> in <b>Rust</b>.<br>
-  Currently building robust <b>REST API</b> services and <b>Telegram bots</b>.
+  Backend Developer specializing in <b>Rust</b> and <b>Python</b>.<br>
+  Building high-throughput <b>REST APIs</b>, async microservices, and automated <b>Telegram bots</b>.<br>
+  Experienced in audio processing pipelines (<b>Whisper</b>) and concurrent system architectures.
 </p>
 
 <br />
 
 <div align="center">
   Running <b>Arch Linux</b> on <b>Hyprland</b> WM.<br>
-  Minimal, keyboard-centric workflows and tiling window managers.
+  Minimal, keyboard-centric workflows and CLI-driven development.
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://img.shields.io/badge/RUST-000000?style=for-the-badge&logo=rust&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/AXUM-000000?style=for-the-badge&logo=rust&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/TOKIO-000000?style=for-the-badge&logo=rust&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/AIOGRAM_3-000000?style=for-the-badge&logo=telegram&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white" height="28" />
 </div>
 
 <br /><br />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/RUST-000000?style=for-the-badge&logo=rust&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white" height="30" />
+  <a href="https://t.me/htvinci">
+    <img src="https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=white" height="28" />
+  </a>
+  <a href="mailto:temirlanminbaev.dev@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" height="28" />
+  </a>
 </div>
 
-<br /><br />
+<br />
