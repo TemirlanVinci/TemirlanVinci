@@ -11,7 +11,7 @@
 <p align="center">
   Backend Developer specializing in <b>Rust</b> and <b>Python</b>.<br>
   Building high-throughput <b>REST APIs</b>, async microservices, and automated <b>Telegram bots</b>.<br>
-  Experienced in audio processing pipelines (<b>Whisper</b>) and concurrent system architectures.
+  Experienced in deploying <b>local AI models</b> (LLMs, STT, TTS) and integrating inference into production pipelines.
 </p>
 
 <br />
